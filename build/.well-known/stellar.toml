@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+"GD4HEFPEJJNJ3ATBPHXAJ65L5FHCO7Z3HNYH2BSAXFDN2EO6TIOV2J6X"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="angryshiba"
-ORG_URL="https://www.angryshiba.org"
-ORG_DESCRIPTION=""
-ORG_TWITTER="@angryshiba"
-ORG_LOGO="https://i.ibb.co/cCKyP73/images-1.png"
-ORG_OFFICIAL_EMAIL="angryshiba@gmail.com"
+ORG_NAME="bentleyxlm"
+ORG_URL="https://www.bentleyxlm.org"
+ORG_DESCRIPTION="Bentley Motors Limited is a British manufacturer and marketer of luxury cars and SUVs, and a subsidiary of the Volkswagen Group since 1998"
+ORG_TWITTER="@bentleyxlm"
+ORG_LOGO="https://i.ibb.co/dKP9PPQ/1.png"
+ORG_OFFICIAL_EMAIL="bentleyxlm@gmail.com"
 
 
 [[CURRENCIES]]
-code="AngryShiba"
-issuer="GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+code="BentleyXLM"
+issuer="GD4HEFPEJJNJ3ATBPHXAJ65L5FHCO7Z3HNYH2BSAXFDN2EO6TIOV2J6X"
 anchor_asset="false"
-name="Angry Shiba"
-desc="LEASH, BONE — ShibaSwap — Innovative Reward System — The Shiba Incubator — And more. 585k+ Community Members and Growing Fast!."
-conditions="From its inception, Shiba Inu has done things differently. Starting with a supply of 1 quadrillion, our founder, Ryoshi, locked 50% in Uniswap, then “burned” the other half to Ethereum co-founder Vitalik Buterin for safekeeping."
-image="https://i.ibb.co/cCKyP73/images-1.png"
+name="BentleyXLM"
+desc="Bentley Motors Limited is a British manufacturer and marketer of luxury cars and SUVs, and a subsidiary of the Volkswagen Group since 1998"
+conditions=""
+image="https://i.ibb.co/dKP9PPQ/1.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#AngryShiba was issued using the open and inclusive Stellar blockchain network.
+#BentleyXLM was issued using the open and inclusive Stellar blockchain network.
